@@ -1,6 +1,6 @@
 ### Hi I'm Yusril 👋
 
-- 🔭 I’m currently working on fun project https://github.com/yusrilsabir22/mysic-api
+- 🔭 I’m currently working on my fun project https://github.com/yusrilsabir22/mysic-api.
 - 🌱 I’m currently learning AI
 
 <!--
