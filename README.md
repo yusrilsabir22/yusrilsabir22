@@ -1,6 +1,6 @@
 ### Hi I'm Yusril 👋
 
-- https://portofolio.blondev.cloud
+- 👨🏻‍💻 check my portofolio https://portofolio.blondev.cloud
 - 🔭 I’m currently working on my fun project https://github.com/yusrilsabir22/mysic-api.
 - 🌱 I’m currently learning AI
 
